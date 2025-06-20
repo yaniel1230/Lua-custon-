@@ -45,4 +45,4 @@ RegisterCreatureGossipEvent(NPC_ID, 1, OnGossipHello)
 RegisterCreatureGossipEvent(NPC_ID, 2, OnGossipSelect)
 
 -- Autor y módulo info
-print("Módulo de apuestas PvP por Yaniel cargado correctamente.")
+print(."Por Yaniel cargado correctamente.")
