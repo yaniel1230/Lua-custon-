@@ -1,6 +1,6 @@
-local ITEM_ID = 0        -- Ejemplo: Poción de maná superior
-local SPELL_1_ID = 0    -- Ejemplo: Montura de Aprendiz
-local SPELL_2_ID = 0    -- Ejemplo: Buff mágico
+local ITEM_ID = 6149        -- Ejemplo: Poción de maná superior
+local SPELL_1_ID =  33389   -- Ejemplo: Montura de Aprendiz
+local SPELL_2_ID = 68251    -- Ejemplo: Buff mágico
 local CAST_SPELL_ID = 74192 -- Visual: subida de nivel
 local EMOTE_ID = 4          -- Cheer (aplaude alegremente)
 
