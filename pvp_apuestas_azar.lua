@@ -5,7 +5,7 @@ Para AzerothCore
 Creado por Yaniel
 ]]
 
-local NPC_ID = 900001
+local NPC_ID = 445085
 
 local COSTS = {
     duelQuick = 50,
