@@ -1,4 +1,4 @@
-local NPC_ID = 191000
+local NPC_ID = 123456
 
 -- Posiciones por capital (mapId, x, y, z, o)
 local capitals = {
